@@ -7,15 +7,15 @@ I'm an active contributor to several open-source projects, and I'm always lookin
 
 ## My Projects
 
-[//]: <> - [Project Name](https://github.com/yourusername/projectname): A brief description of the project and its technologies.
+<!--[//]: <> - [Project Name](https://github.com/yourusername/projectname): A brief description of the project and its technologies.
 
-[//]: <> - [Another Project](https://github.com/yourusername/anotherproject): Explain what this project does and why it's interesting.
+[//]: <> - [Another Project](https://github.com/yourusername/anotherproject): Explain what this project does and why it's interesting.-->
 
 ## Recent Activity
 
-[//]: <> (- Opened a pull request in [ProjectRepo](https://github.com/projectrepo) to fix a bug.)
+<!--[//]: <> (- Opened a pull request in [ProjectRepo](https://github.com/projectrepo) to fix a bug.)
 
-[//]: <> (- Created an issue in [AnotherRepo](https://github.com/anotherrepo\\) to suggest a new feature.)
+[//]: <> (- Created an issue in [AnotherRepo](https://github.com/anotherrepo\\) to suggest a new feature.)-->
 
 Feel free to connect with me or explore my repositories. Let's code together!
 
