@@ -1,7 +1,7 @@
 # About Leon12-aaryson
 👨‍💻 Software Engineer | Tech and Open Source Enthusiast | Coding is my passion
 
-I'm a passionate software engineer with a love for coding and a commitment to open source. I enjoy working on a wide range of projects, from web applications to mobile apps. My tech stack includes Python, JavaScript, React, and more.
+I'm a passionate software engineer with a love for coding and a commitment to open source. I enjoy working on a wide range of projects, from web applications to mobile apps. My tech stack includes Python, PHP, Django, Flask, Codeignitor and more.
 
 I'm an active contributor to several open-source projects, and I'm always looking for opportunities to collaborate with others in the developer community.
 
