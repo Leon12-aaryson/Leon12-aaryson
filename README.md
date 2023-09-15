@@ -13,9 +13,9 @@ I'm an active contributor to several open-source projects, and I'm always lookin
 
 ## Recent Activity
 
-[//]: <> - Opened a pull request in [ProjectRepo](https://github.com/projectrepo) to fix a bug.
+[//]: <> (- Opened a pull request in [ProjectRepo](https://github.com/projectrepo) to fix a bug.)
 
-[//]: <> - Created an issue in [AnotherRepo](https://github.com/anotherrepo) to suggest a new feature.
+[//]: <> (- Created an issue in [AnotherRepo](https://github.com/anotherrepo\\) to suggest a new feature.)
 
 Feel free to connect with me or explore my repositories. Let's code together!
 
