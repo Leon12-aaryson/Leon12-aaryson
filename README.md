@@ -1,21 +1,33 @@
-# About Leon12-aaryson
-👨‍💻 Software Engineer | Tech and Open Source Enthusiast | Coding is my passion
+# About Aaron
+## Software Engineer | Tech and Open Source Enthusiast
+- Looking forward to collaborate
+- Open to opportunities
 
-I'm a passionate software engineer with a love for coding and a commitment to open source. I enjoy working on a wide range of projects, from web applications to mobile apps. My tech stack includes Python, PHP, Django, Flask, Codeignitor and more.
+> **Note:** We thrive by nurturing and evolving alongside vibrant developer communities.
 
-I'm an active contributor to several open-source projects, and I'm always looking for opportunities to collaborate with others in the developer community.
+> I'm a sucker for code
 
-## My Projects
 
-<!--[//]: <> - [Project Name](https://github.com/yourusername/projectname): A brief description of the project and its technologies.
+*<h5>Let's write some code</h5>*
 
-[//]: <> - [Another Project](https://github.com/yourusername/anotherproject): Explain what this project does and why it's interesting.-->
+
+<!--## My Projects-->
+
+Contributor to [@PyconUg](https://github.com/PyconUg)
+
+[Follow on Twitter](https://twitter.com/oluk_aaron)
+
+
 
 ## Recent Activity
 
-<!--[//]: <> (- Opened a pull request in [ProjectRepo](https://github.com/projectrepo) to fix a bug.)
 
-[//]: <> (- Created an issue in [AnotherRepo](https://github.com/anotherrepo\\) to suggest a new feature.)-->
+<!--Feel free to connect with me or explore my repositories. Let's code together!-->
 
-Feel free to connect with me or explore my repositories. Let's code together!
 
+<a href="https://github.com/Leon12-aaryson/Leon12-aaryson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon12-aaryson&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Leon12-aaryson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leon12-aaryson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aaron's GitHub Stats" />
+</a>
