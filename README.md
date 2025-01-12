@@ -3,9 +3,7 @@
 - Looking forward to collaborate
 - Open to opportunities
 
-> **Note:** We thrive by nurturing and evolving alongside vibrant developer communities.
-
-> I'm a sucker for code
+> **Note:** Learning to unlearn
 
 
 *<h5>Let's write some code</h5>*
@@ -20,10 +18,6 @@ Contributor to [@PyconUg](https://github.com/PyconUg)
 
 
 ## Recent Activity
-
-
-<!--Feel free to connect with me or explore my repositories. Let's code together!-->
-
 
 <a href="https://github.com/Leon12-aaryson/Leon12-aaryson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon12-aaryson&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
