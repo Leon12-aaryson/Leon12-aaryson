@@ -1,17 +1,34 @@
-# About Aaron
-## Software Engineer | Tech and Open Source Enthusiast
-- Looking forward to collaborate
-- Open to opportunities
+Aaron Leonard
 
-> **Note:** Learning to unlearn
+About Me
+I'm a Software Engineer based in Uganda, with a passion for Software development.
 
+My journey in tech is driven by a desire to solve real-world problems through innovative solutions, especially those impacting my local community and beyond.
 
-*<h5>Let's write some code</h5>*
+### Skills
+  - Programming Languages: [Python, JavaScript, PHP]
+  - Frameworks/Libraries: [React, Django, Laravel, Bootstrap, TailwindCSS, React Native]
+  - Tools: [Git, CI/CD tools]
+  - Other: [Agile methodology]
 
+### Projects
+  - PyConUg - React JS
+  - [VerseFountain]()
+    - Laravel
+    - MySQL
+    - Tailwind CSS
 
-<!--## My Projects-->
+### Contributions
+  - [PyconUg](https://github.com/PyconUg)
+    
 
-Contributor to [@PyconUg](https://github.com/PyconUg)
+### Contact
+  - Website: [techleon.org](https://techleon.org)
+  - LinkedIn: [Oluk Aaron](https://www.linkedin.com/in/oluk-aaron/)
+  - Twitter: [@oluk_aaron](https://twitter.com/oluk_aaron)
+  - Email: [Mail to: aaronoluk4deleonardo@gmail.com](aaronoluk4deleonardo@gmail.com)
+
+Feel free to reach out if you're interested in collaborating, have questions, or just want to chat about tech!
 
 [Follow on Twitter](https://twitter.com/oluk_aaron)
 
