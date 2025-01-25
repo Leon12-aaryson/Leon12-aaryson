@@ -1,6 +1,7 @@
-Aaron Leonard
+# Aaron Leonard
 
-About Me
+## About Me
+
 I'm a Software Engineer based in Uganda, with a passion for Software development.
 
 My journey in tech is driven by a desire to solve real-world problems through innovative solutions, especially those impacting my local community and beyond.
@@ -26,13 +27,10 @@ My journey in tech is driven by a desire to solve real-world problems through in
   - Website: [techleon.org](https://techleon.org)
   - LinkedIn: [Oluk Aaron](https://www.linkedin.com/in/oluk-aaron/)
   - Twitter: [@oluk_aaron](https://twitter.com/oluk_aaron)
-  - Email: [Mail to: aaronoluk4deleonardo@gmail.com](aaronoluk4deleonardo@gmail.com)
+  - Email: aaronoluk4deleonardo@gmail.com
+  - gitlab: [@Leon12-aaryson](https://gitlab.com/Leon12-aaryson)
 
 Feel free to reach out if you're interested in collaborating, have questions, or just want to chat about tech!
-
-[Follow on Twitter](https://twitter.com/oluk_aaron)
-
-
 
 ## Recent Activity
 
